@@ -1,0 +1,10 @@
+[
+  {
+    "id": "usr_admin",
+    "name": "Academic Admin",
+    "email": "admin@kidrove.com",
+    "password": "admin123",
+    "role": "admin",
+    "createdAt": "2026-06-18T20:53:48.487Z"
+  }
+]

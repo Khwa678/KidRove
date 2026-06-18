@@ -1,0 +1,6 @@
+{
+  "name": "AI & Robotics Summer Workshop",
+  "description": "Enroll in our 4-week premium online AI & Robotics Summer Workshop for kids aged 8-14 to master AI, robotics, coding, and dynamic smart automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
